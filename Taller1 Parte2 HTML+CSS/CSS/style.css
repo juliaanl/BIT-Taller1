@@ -1,0 +1,168 @@
+body {
+  background-color: #ffffffb2;
+  margin: 0px;
+  margin: 0px;
+  font-family: "Open Sans", sans-serif;
+}
+.headerBarraNav {
+  background-color:#373c4b;
+  width: 100%;
+  height: 60px;
+  position: relative;
+  overflow: hidden;
+}
+
+.natGeoLog {
+  width: 120px;
+  height: 110px;
+  margin-left: 8%;
+  margin-bottom: 40px;
+  transform: translate(-20%, -20%);
+}
+.barraNavList {
+  display: inline-flex;
+  list-style: none;
+  float: none;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  top: 50%;
+  left: 50%;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+}
+.barraNavList a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 30px;
+}
+.barraNavList a:hover {
+  color: #030303;
+}
+.sectionOne {
+  width: 100%;
+  margin-top: 30px;
+  text-align: center;
+}
+.sectionOne p {
+  font-size: 20px;
+}
+.sectionOne h1 {
+  font-size: 40px;
+}
+.sectionImgOne {
+  display: inline-flex;
+  height: 1600px;
+  width: 1220px;
+  justify-content: center;
+}
+.sectionImgOne img:hover {
+  box-shadow: 8px 10px rgba(0, 0, 0, 0.233);
+}
+.horizontalPhot {
+  display: block;
+}
+.verticalPhotLeft {
+  display: block;
+}
+.verticalPhotRight {
+  display: block;
+}
+.imgOneOne {
+  margin: 80px 10px 20px 10px;
+}
+.imgOneTwo {
+  margin: 20px 10px;
+}
+.imgOneThree {
+  margin: 20px 10px;
+}
+.imgTwoOne {
+  margin: 80px 10px 0px 10px;
+}
+.imgTwoTwo {
+  margin: 10px 10px;
+}
+.imgTwoThree {
+  margin: 20px 10px;
+}
+.imgThreeOne {
+  margin: 80px 10px 20px 10px;
+}
+.imgThreeOneTwo {
+  margin: auto;
+}
+.imgThreeThree {
+  margin: 20px 10px;
+}
+.sectionOneFooter {
+  background-color: #4e6a7a80;
+  width: 100%;
+  height: 380px;
+  justify-content: center;
+}
+.sectionOneFooter {
+  display: inline-flex;
+  margin-top: 100px;
+}
+.mapsOne {
+  padding: 20px 100px;
+}
+.mapsOne p {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+.mapsIframe {
+  width: 350px;
+  height: 230px;
+}
+.acerca {
+  width: 340px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.nosotrosTitle {
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 20px;
+}
+.acerca p {
+  color: #000000;
+  text-align: center;
+}
+.socialMedia {
+  width: 340px;
+  display: inline-block;
+  text-align: center;
+}
+.socialMedia p {
+  font-size: 25px;
+  color: white;
+}
+.socialMedia img {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+.iconNatGeoFot {
+  margin: 5px 75px;
+  width: 200px;
+  height: 180px;
+}
+.iconNatGeoFot:hover {
+  background-color:   gold;
+}
+.sectionTwoFooter {
+  width: 70%;
+  height: 100px;
+  text-align: center;
+  margin-left: 250px;
+  background-color: #71818d3a;
+}
+.sectionTwoFooter p {
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  padding-top: 35px;
+}
